@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 48812312,
+    "separation": 15,
+    "spacing": 30
+  },
+  "structures": [
+    {
+      "structure": "caveopolis:colored_temple",
+      "weight": 1
+    }
+  ]
+}

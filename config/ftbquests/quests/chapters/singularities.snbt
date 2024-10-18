@@ -1,0 +1,169 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "singularities"
+	group: "092BF0DBBD252DA8"
+	icon: "extendedcrafting:ultimate_singularity"
+	id: "32C4DC4B059BE4B4"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["It's hot"]
+			id: "37B6F9126CD3C4E7"
+			rewards: [{
+				id: "7D483B82EBBDA7FC"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "089F72680A6154F0"
+				item: {
+					Count: 1
+					id: "extendedcrafting:singularity"
+					tag: {
+						Id: "extendedcrafting:desertopolis"
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			description: ["Did anyone play this?"]
+			id: "7E7D3F99A772060A"
+			rewards: [{
+				id: "78696D97195E237B"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "18FE82C787DFDDF7"
+				item: {
+					Count: 1
+					id: "extendedcrafting:singularity"
+					tag: {
+						Id: "extendedcrafting:infernopolis"
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			description: ["Voidopolis?"]
+			id: "2F3534DCB0955CFE"
+			rewards: [{
+				id: "3C17C6DE96D166E5"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "521742E98C2C4E1C"
+				item: {
+					Count: 1
+					id: "extendedcrafting:singularity"
+					tag: {
+						Id: "extendedcrafting:stoneopolis"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			description: ["Mod or modpack"]
+			id: "15CD46E32341BBF6"
+			rewards: [{
+				id: "18039FF8A65C743F"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2F96ABF33D67D72F"
+				item: {
+					Count: 1
+					id: "extendedcrafting:singularity"
+					tag: {
+						Id: "extendedcrafting:caveopolis"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			description: ["1, 2 or 3"]
+			id: "5A711E583B978557"
+			rewards: [{
+				id: "6700FDFB4C9F9AB7"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3AB806BE7C84E293"
+				item: {
+					Count: 1
+					id: "extendedcrafting:singularity"
+					tag: {
+						Id: "extendedcrafting:seaopolis"
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			description: ["Love"]
+			id: "1F2D8187707485E4"
+			rewards: [{
+				id: "6E9933401A70F0A0"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "75E2D879E4731741"
+				item: {
+					Count: 1
+					id: "extendedcrafting:singularity"
+					tag: {
+						Id: "extendedcrafting:techopolis"
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"37B6F9126CD3C4E7"
+				"2F3534DCB0955CFE"
+				"15CD46E32341BBF6"
+				"5A711E583B978557"
+				"1F2D8187707485E4"
+				"7E7D3F99A772060A"
+			]
+			description: ["The best of the best of the best"]
+			id: "4956FE89B608E904"
+			rewards: [{
+				id: "776CF7C8CC09C7AE"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0F888FDF26BFFA49"
+				item: "extendedcrafting:ultimate_singularity"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+	]
+	title: "Singularities"
+}

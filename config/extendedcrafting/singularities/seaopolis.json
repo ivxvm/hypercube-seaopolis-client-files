@@ -1,0 +1,10 @@
+{
+  "name": "Seaopolis",
+  "colors": [
+    "9ADCF1",
+    "107F9E"
+  ],
+  "ingredient": {
+    "tag": "submerged:sea_materials"
+  }
+}

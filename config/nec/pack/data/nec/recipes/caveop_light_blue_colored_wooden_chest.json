@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "caveopolis:light_blue_colored_wooden_planks"
+    }
+  },
+  "result": {
+    "item": "nec:caveop_light_blue_colored_wooden_chest"
+  }
+}

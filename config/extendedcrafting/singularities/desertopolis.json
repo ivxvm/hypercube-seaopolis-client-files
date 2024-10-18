@@ -1,0 +1,10 @@
+{
+  "name": "Desertopolis",
+  "colors": [
+    "277A29",
+    "327734"
+  ],
+  "ingredient": {
+    "item": "submerged:cactus_slice"
+  }
+}

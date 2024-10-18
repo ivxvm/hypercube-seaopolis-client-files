@@ -1,0 +1,65 @@
+
+[anvil]
+	#Enable Anvil UI
+	anvil_ui = true
+
+[beacon]
+	#Enable Beacon UI
+	beacon_ui = true
+
+[blast_furnace]
+	#Enable Blast Furnace UI
+	blast_furnace = true
+
+[brewing_stand]
+	#Enable Brewing Stand UI
+	brewing_stand = true
+
+[crafting_table]
+	#Enable Crafting Table UI
+	crafting_table = true
+
+[dispenser]
+	#Enable Dispenser UI
+	dispenser = true
+
+[enchanting_table]
+	#Enable Enchanting Table UI
+	enchanting_table = true
+
+[furnace]
+	#Enable Furnace UI
+	furnace = true
+
+[grindstone]
+	#Enable Grindstone UI
+	grindstone = true
+
+[hopper]
+	#Enable Hopper UI
+	hopper = true
+
+[horse]
+	#Enable Horse UI
+	horse = true
+
+[loom]
+	#Enable Loom UI
+	loom = true
+
+[shulker_box]
+	#Enable Shulker Box UI
+	shulker_box = true
+
+[smoker]
+	#Enable Smoker UI
+	smoker = true
+
+[stonecutter]
+	#Enable Stonecutter UI
+	stonecutter = true
+
+[cartography_table]
+	#Enable Cartography Table UI
+	catography_tabe = true
+

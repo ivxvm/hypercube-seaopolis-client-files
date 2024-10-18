@@ -1,0 +1,13 @@
+
+["Roomopolis Config File"]
+	#The block that will be used as the treasure block for the fire shrine
+	"Fire Shrine Treasure Block" = "submerged:fire_block"
+	#The block that will be used as the treasure block for the water shrine
+	"Water Shrine Treasure Block" = "submerged:water_block"
+	#The block that will be used as the treasure block for the earth shrine
+	"Earth Shrine Treasure Block" = "submerged:earth_block"
+	#The block that will be used as the treasure block for the air shrine
+	"Air Shrine Treasure Block" = "submerged:air_block"
+	#Lowest Y Level for room placement using keys on the bottom of room blocks
+	"Lowest Y Level for room placement" = 0
+

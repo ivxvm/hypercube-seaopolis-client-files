@@ -1,0 +1,10 @@
+{
+  "name": "Techopolis",
+  "colors": [
+    "DE91EF",
+    "569F75"
+  ],
+  "ingredient": {
+    "item": "submerged:final_technium_ingot"
+  }
+}

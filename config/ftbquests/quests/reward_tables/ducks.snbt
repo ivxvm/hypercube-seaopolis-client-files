@@ -1,0 +1,116 @@
+{
+	id: "137FC2661E0ACA57"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "theducksmod:mallard_duck_spawn_egg"
+				tag: {
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Scrooge McDuck\"}"
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "theducksmod:mallard_duck_spawn_egg"
+				tag: {
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Darkwing Duck\"}"
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "theducksmod:mallard_duck_spawn_egg"
+				tag: {
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Ducktor\"}"
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "theducksmod:mallard_duck_spawn_egg"
+				tag: {
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Daffy Duck\"}"
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "theducksmod:mallard_duck_spawn_egg"
+				tag: {
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Dewey\"}"
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "theducksmod:mallard_duck_spawn_egg"
+				tag: {
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Louie\"}"
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "theducksmod:mallard_duck_spawn_egg"
+				tag: {
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Huey\"}"
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "theducksmod:mallard_duck_spawn_egg"
+				tag: {
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Donald\"}"
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "theducksmod:mallard_duck_spawn_egg"
+				tag: {
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Duckster\"}"
+					}
+				}
+			}
+		}
+	]
+	title: "Ducks"
+}

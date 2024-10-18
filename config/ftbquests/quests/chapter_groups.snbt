@@ -1,0 +1,9 @@
+{
+	chapter_groups: [
+		{ id: "28A36B21D85FE272", title: "Water Sweet Water" }
+		{ id: "0F7F52EC612305DE", title: "Resource Gathering" }
+		{ id: "6C5D8F894B2D127D", title: "Machines" }
+		{ id: "425C132483950B0B", title: "Further Submerged" }
+		{ id: "092BF0DBBD252DA8", title: "Final" }
+	]
+}

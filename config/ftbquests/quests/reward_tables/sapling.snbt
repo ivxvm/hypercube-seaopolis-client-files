@@ -1,0 +1,24 @@
+{
+	id: "45D50C9FD6F00F64"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ item: "caveopolis:brown_colored_sapling" }
+		{ item: "caveopolis:magenta_colored_sapling" }
+		{ item: "caveopolis:purple_colored_sapling" }
+		{ item: "caveopolis:white_colored_sapling" }
+		{ item: "caveopolis:yellow_colored_sapling" }
+		{ item: "caveopolis:light_gray_colored_sapling" }
+		{ item: "caveopolis:blue_colored_sapling" }
+		{ item: "caveopolis:light_blue_colored_sapling" }
+		{ item: "caveopolis:gray_colored_sapling" }
+		{ item: "caveopolis:pink_colored_sapling" }
+		{ item: "caveopolis:red_colored_sapling" }
+		{ item: "caveopolis:black_colored_sapling" }
+		{ item: "caveopolis:orange_colored_sapling" }
+		{ item: "caveopolis:green_colored_sapling" }
+		{ item: "caveopolis:lime_colored_sapling" }
+		{ item: "caveopolis:cyan_colored_sapling" }
+	]
+	title: "Colored Saplings"
+}

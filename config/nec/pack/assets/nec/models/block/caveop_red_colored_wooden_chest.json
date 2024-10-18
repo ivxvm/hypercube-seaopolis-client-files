@@ -1,0 +1,6 @@
+{
+   "parent": "minecraft:block/chest",
+   "textures": {
+        "particle": "nec:entity/chest/caveop/red_colored_wooden"
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Infernopolis",
+  "colors": [
+    "8D270B",
+    "8C2D28"
+  ],
+  "ingredient": {
+    "item": "minecraft:netherrack"
+  }
+}

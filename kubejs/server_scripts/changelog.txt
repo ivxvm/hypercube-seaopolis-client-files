@@ -1,0 +1,302 @@
+// Seaopolis Submerged Changelog
+
+//Server information
+Add Patchouli, Systems, Yung stuff
+Remove Clear Water
+
+3.0
+
+Updated a few mods
+Fixed server issue with Ben's Sharks Mod
+Fixed diamond gear recipe still not using the mold correctly
+Remove debug for positions when placing the Neptunes Bounty 
+Changed dust block texture
+Changed apple of ascent to now teleport you to the dimension above you when eaten 
+    - colored caves -> nether -> overworld
+Apple of Ascent no longer gives jump boost
+Apple of Ascent now works anywhere in the nether and colored caves to teleport you up a dimension
+
+2.0
+
+Updated Various Mods
+Key Blcok Removers can now longer be used to make key fragments
+Fixed key tip typo
+Fixed diamond gear recipe not using the gear mold
+Added configured
+Removed a few addon embedium mods just leaving the base version in
+Fixed refill black can recipe
+Neptunes Bounty now longer treated as a chest in recipes
+Added a recipe for the ultimate Singularity this should fix servers not having a recipe for it 
+
+1.0 (WIP)
+
+Added additional information about strainers and bedrock
+Structure Compass can no longer "find" vanilla fortress in the nether
+Structure Compass will now search for unfound structures 
+Wild Farmers Delight plants can now be obtained through strainers
+Added @Yuki fix for paxels in some farmers delight recipes
+Removed beacon "recipe" for strainers upgrade
+Added more overlays
+Added Colorful hearts
+Added Trash Cans
+
+//ENDGAME
+Changed Eye Core recipe to only use a single eye of ender in its recipes
+Added various items from older modpacks for endgame items
+Remove Aluminium Singularity
+
+
+TWEAK EYE CORE RECIPE
+
+B9.0
+Changed blue text in information quest to just white, read clearer
+Added Dragons Breath recipe
+Added Crying Obsidian Recipes (Makes Shellite craftable)
+Tweaked the wooden item textures from submerged to hopefully increase visibility 
+Updated a few mods
+
+B8.0
+Fixed apple of ascent quest reward
+Added framed blocks
+Fixed some quest describtions
+Changed concealment_key recipe
+ROOMOPOLIS fixed short room key spawning rooms even when its below the correct amount
+Added apple of ascent emergeny item to prevent soft locking in the nether/ colored caves
+Fixed strainer JEI information
+Fixed sea bucks name
+Fixed barriers being in the ship wreck loot tabe
+Server button in multiplayer menu now points to the subemerged modpack not stoneopolis
+
+B7.0
+Fixed some thermal items not being shown in JEI
+Added image to strainer quest to show stariner set up
+Updated mod, Updates forge to 47.3.0
+
+B6.0
+
+Fixed netherite dust recipe
+Fixed portal spawning issue inside the caveopolis dimension
+Changed witch cake in with eye recipe to sugar
+Fixed cod slices recipe 
+Combined strainers upgrades can now be uncrafted
+Fixed deep frozen oceans freezing you
+Disabled Angler spawning
+Various Mod Updates
+
+B5.0
+
+Fixed starting spawn structure not being equal
+Added soulstone recipe using soulium dust
+Added Warp Pipes, added to the catalogue
+Added some QOL Mods for AE2 and Refined Storage
+Fixed modpack version displaying incorrect version
+
+
+B4.0
+
+Added;
+    Sky GUIS
+    Updated Various Mods
+
+Added light blue sapling to emergency items 
+Added @Yuki potential fix for dimension switching
+Room wall clearing keys and topper key recipes added
+Added @ratkinsonuk cod slice fix
+
+//B3.0
+
+Added;
+    FTB Chunks
+    FTB Essentials
+    Polymorph
+    Polmorphic Energistics
+    Refined Polymorphism
+    Visual Workbenches
+    Packet Fixer
+    Pipez
+    Sky GUIS
+    Updated Various Mods
+
+Removed Crafting Station JEI Edditions (To buggy)
+Added additional curios slots 
+Added Water Curio (Allows you to be in water instead of always wearing a diving suit)
+Added Ender pearl fragments to chests
+Updated a few Mods
+Silicon can now be made from silicon essence
+Fixed some spelling mistakes
+Fixed bedrock ingots being crafted in bedrock chunks
+Custom window icon added
+
+
+B1.0
+
+Beta Public Release
+
+A10.1
+Neptunes Bounty can now be crafted, when placed will generate a loot tables that contains neptunium ingot/nuggets
+REMOVED Uranium from ultimate ingot craft
+ADDED Shulker Shell recipe
+REMOVED Old Undead Eye recipe
+FIXED Cursed Eye recipe using gold rods not blaze rods
+CHANGE Spice of Life food requirments thanks @Ikari (Patreon), delete server config inside world file for this, new world are automatic
+ADDED Blizz and Bat summoning block recipes
+ADDED Bisect Hosing Mod
+UPDATED Some Mods, hotfixes for opolis utilites, Pipe connector and fancy menu
+Moved to release versions of roomopolis and opolis Utilities (WAITING ON CURSE)
+ADDED Drippy Loading Screen
+
+A10.0 (Beta Candidate 1)
+CHANGED/ADDED Eye recipes
+ADDED Iron Furnaces
+REWORKED End Game 
+Finalized main quests
+Changed internal dev to BETA
+ADDED My Server Is Compatable
+ADDED Toast Control
+
+A9.0
+
+ROOMOPOLIS CHANGES;
+    Added 14x9 wall key remover
+    Fixed lang files for some keys showing the wrong information
+    Keys now show a warning of block removal when the key is held over a room block in the world!
+
+ADDED Eye Core, used to create eyes
+ADDED quests for the eyes 
+
+
+A8.0
+Framed Controller and Slave now drop correctly, disabled my temp fix
+New Sharks
+Simple hats now enabled again (even though it was being enabled anyway)
+ADDED Iron Furnaces
+CHANGED Column Temple now spawns with marble not quartz blocks
+CHANGED some early game quest rewards
+CHANGED some early game recipes
+
+A7.0
+
+FIXED on/off button in crafter making the crafter change directions
+ADDED on/off button to block placer, block breaker and item repaierer (all off by default now!)
+ADDED Animal Net picks up mobs, damage does not work correctly yet!
+REMOVED Simple Hats, due to crashes with latest JEI and Curios 
+ADDED Resource generator 1 recipes for caveopolis colored stone bricks and glass
+CHANGED Opolis Wrench Recipe
+REMOVED Pretty Piupes and Pretty Pipes Fluids
+REMOVED Quartz Block to Quartz recipe using cutting board
+Frmaed Controller and Slave will now drop but not with the correct textures!
+Black Iron Frame now used in the basic crafting table recipe
+Incrased chances of mixed stone spawning in the colored caves temple
+Changed Colored Temples to have mixed stone ore spawn inside it 
+ADDED a way to get Ice
+ADDED Glider mod, TIAB
+ADDED Title Screen
+ADDED Yuki textures for Ender Eye Curio and Apple of accepting
+ADDED Remaining missing textures
+CHANGED Energy prices for mystical seed in thermal machines
+CHANGED Ultimate Ingot Recipe
+Added Creative Essence Recipe
+
+A6.0
+
+CHANGED Crafting Tweaks Textures to better fix new GUIS
+CHANGED Chest GUI textures
+CHANGED Fishes from strainers (lower chance higher per mesh tier)
+ADDED The Ducks Mod, REMOVED Duckling
+CHANGED Leaves in strainer speed
+CHANGED Log sheet recipe to use driftwood not pressure plates~
+ADDED Fast Leaf Decay, Fast Suit and Fast Load
+ADDED Simple Tombstone
+REMOVE AQUA CREEPERS BECAUSE THEY ARE THE WORST THING IN THE WHOLE MODPACK 
+INCREASED Bronze Mesh Damage
+CHANGED Cobblestone -> Gravel -> Sand -> Dust to 100% chances with eroding water
+ADDED Toms Storage, Will probably remove Pretty Pipes Later
+ADDED Iron Chests
+ADDED Ore Pieces tag and Ore Gravel tags
+FIXED Better Copper copper nuggets being the default in crafting recipes
+FIXED Dupe pipe connector recipe, changed recipe to use tom storage pipes now
+REMOVED Pretty pipes quests, changed to Toms Storage
+Crafters now have on/ off buttons
+
+
+A5.0
+
+CHANGED Framed Drawers recipes that used storage drawers items
+Amethyst Dust now needs a tier 3 mesh instead of a tier 4
+ADDED Construction Wands
+ADDED Colored Temple to colored Caves
+ADDED Shrine Skeleton keyA
+ADDED Shrine Key Fragments
+ADDED Better Strongholds
+ADDED Ender Eye Curio, allow placing of ender eyes in portal framed
+ADDED Loads of quests
+FIXED some items only working for benbenlaw
+
+
+A4.0
+
+REMOVED Taxs Ocean
+Twaeked structure spawning again should reduce the amount of strucutres spawning in a single area
+ADDED AE2 and Refined Storage
+ADDED Crafting Core, used for storage drawers mod
+CHANGED Storage drawer key textures
+REMOVED defualt storage drawers only framed craftable now
+ADDED a bunch of missing textures
+CHANGED Rose Gold Ingot recipe, uses electrum now
+CHANGED Thermal crop growing machine recipe
+CHANGED prosperity shard recipe to use tier 5 meshes
+ADDED Wither Skeleon Curio, found in nether fortress, will make wither skeletons always drop there heads
+Wither now drops minecraft:netherite_upgrade_smithing_template
+FIXED Nether bedrock always being breakable at the bottom of the world
+Short room keys can no longer be placed below y level 0
+CHANGED Quartz to certus quartz in earlier quests
+CHANGED some ae2/ refined storage recipes to fit in the current chapter let me know if theres any adjustments needed
+
+A3.0
+Actually Updated to Opolis Utilities latest version
+REMOVED WaterMeDIA (Not sure what this is)
+Renabled Aqua Creepers with tweaked spawn rates (much less performance impact now)
+Magma Crucible recipe now uses Invar Blocks not Nether Bricks
+REPLACED Crafting Station with Crafting Station JEI Edition
+REMOVED bark to paper recipe in farmers delight
+Added debris ore piece recipe
+Added prosperity shard recipe
+Added ink, glow ink and tentecles to the strainer
+Re added redstone dust recipe from redstone blocks
+Added default world type (set to skyblock)
+FIXED some missing dust recipes
+Amethyst blocks and cluster now drop Amethyst Dust
+Disabled Inferium Essence mob drops
+CHANGED Pretty Pipe speed module recipes
+ADDED more quests
+ADDED Sugar Cane recipes
+CHANGED world gen, increased structures 
+CHANGED most loot chests in the oceans
+ADDED Buried Treasure vanilla minecraft strucutre 
+REMOVED Additional structures
+
+A2.0
+
+Added Rubidium
+FIXED white colored chest recipe and added lime colored recipe
+Added room sizes to key items
+FIXED key fragment recipe not using the correct tag
+FIXED wrong tin in quests
+Added Lead, Nickel, Debris, Silver ore pieces
+New ore pieces added to strainers 
+Added Sodium and Sodium Fixes
+    Greatly increases performance
+Updated Opolis Utilities
+
+
+A1.2
+
+FIXED waterlogged blocks being loaded in the structure
+FIXED caveopolis leaves not accepting forge shears only vanilla shears
+
+A1.1
+
+FIXED Spawn area
+
+A1.0
+Patreon, VIP, Testers Release 

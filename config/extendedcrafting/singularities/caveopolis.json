@@ -1,0 +1,10 @@
+{
+  "name": "Caveopolis",
+  "colors": [
+    "75006D",
+    "FFD800"
+  ],
+  "ingredient": {
+    "tag": "caveopolis:colored_stone"
+  }
+}

@@ -1,0 +1,24 @@
+{
+	id: "3BFBFBE465F74C53"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ item: "caveopolis:brown_dirt" }
+		{ item: "caveopolis:magenta_dirt" }
+		{ item: "caveopolis:purple_dirt" }
+		{ item: "caveopolis:white_dirt" }
+		{ item: "caveopolis:yellow_dirt" }
+		{ item: "caveopolis:light_gray_dirt" }
+		{ item: "caveopolis:blue_dirt" }
+		{ item: "caveopolis:light_blue_dirt" }
+		{ item: "caveopolis:gray_dirt" }
+		{ item: "caveopolis:pink_dirt" }
+		{ item: "caveopolis:red_dirt" }
+		{ item: "caveopolis:black_dirt" }
+		{ item: "caveopolis:orange_dirt" }
+		{ item: "caveopolis:green_dirt" }
+		{ item: "caveopolis:lime_dirt" }
+		{ item: "caveopolis:cyan_dirt" }
+	]
+	title: "Colored Dirt"
+}

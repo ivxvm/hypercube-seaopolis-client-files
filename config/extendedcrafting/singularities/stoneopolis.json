@@ -1,0 +1,10 @@
+{
+  "name": "Stoneopolis",
+  "colors": [
+    "000000",
+    "000000"
+  ],
+  "ingredient": {
+    "item": "submerged:void_ingot"
+  }
+}

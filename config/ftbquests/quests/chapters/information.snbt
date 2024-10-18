@@ -1,0 +1,136 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "information"
+	group: ""
+	id: "04B052C75463608A"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Thank you for downloading and welcome to:"
+				""
+				"&lSeaopolis: Submerged!&r"
+			]
+			id: "5CD0B89B31A34538"
+			rewards: [{
+				id: "03067973B71E2A6B"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "186F6F181FF4BF7C"
+				title: "Welcome To Submerged"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5CD0B89B31A34538"]
+			description: ["The world is full of different&l Ocean Biomes&r"]
+			id: "4198FEB96AA4F903"
+			rewards: [{
+				id: "3E456B31D9560397"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "418676D0E4F0BFB2"
+				title: "World"
+				type: "checkmark"
+			}]
+			title: "The World"
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5CD0B89B31A34538"]
+			description: ["Follow the quests! They will guide you. Some questlines may unlock as you progress through quests"]
+			id: "1A7543D1B47ECEE4"
+			rewards: [{
+				id: "14F8898D2ABB8754"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "382CD39D52AA98A0"
+				title: "Quests"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4198FEB96AA4F903"]
+			description: ["The air above the water is &lTOXIC&r. Unless you have the &lToxic Air Curio&r"]
+			id: "6FCD3636B249C957"
+			rewards: [{
+				id: "2FE03490B0BC39BE"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "210338D9AF703D2D"
+				title: "Toxic Air"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4198FEB96AA4F903"]
+			description: ["The water will hurt you! Unless you have a &lDiving Suit&r"]
+			id: "747D8F2710733364"
+			rewards: [{
+				id: "7313863128C440DE"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2CAA54775CFD9C76"
+				title: "Damaging Waters"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5CD0B89B31A34538"]
+			description: ["These can be used to purchase items from the Catalogue"]
+			id: "67C0497FC6ABAFB2"
+			rewards: [{
+				id: "0F8DFA01F691F62B"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "513A61B4171714B9"
+				title: "Sea Bucks"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5CD0B89B31A34538"]
+			description: ["Warp pipes can be purchased with B Bucks in the catalogue and will allow you to move around your base a lot easier "]
+			id: "51249CC09471E002"
+			rewards: [{
+				id: "4556AD5617CC9DB4"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "32549D0CA7EB1D99"
+				title: "?"
+				type: "checkmark"
+			}]
+			title: "Warp Pipes"
+			x: 1.5d
+			y: 0.0d
+		}
+	]
+	title: "Information"
+}
